@@ -22,11 +22,14 @@ namespace Server
             Console.WriteLine($"Serever was started work at port 1024 , adress {address}");
             IPAddress[] adresses = Dns.GetHostAddresses("microsoft.com");
             string str = "";
+
             foreach (var addressOne in adresses)
             {
                 Console.WriteLine(addressOne);
-                str += addressOne + "\t";
+                //str += addressOne + "\t";
+                str += addressOne + "\r\n";
             }
+
             try
             {
                 while (true)

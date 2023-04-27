@@ -35,7 +35,7 @@
             // 
             // btnParse
             // 
-            this.btnParse.Location = new System.Drawing.Point(479, 54);
+            this.btnParse.Location = new System.Drawing.Point(478, 12);
             this.btnParse.Name = "btnParse";
             this.btnParse.Size = new System.Drawing.Size(75, 32);
             this.btnParse.TabIndex = 0;
@@ -45,7 +45,7 @@
             // 
             // textBoxIP
             // 
-            this.textBoxIP.Location = new System.Drawing.Point(12, 54);
+            this.textBoxIP.Location = new System.Drawing.Point(12, 12);
             this.textBoxIP.Name = "textBoxIP";
             this.textBoxIP.Size = new System.Drawing.Size(134, 20);
             this.textBoxIP.TabIndex = 1;
@@ -53,10 +53,11 @@
             // 
             // textBoxMessage
             // 
-            this.textBoxMessage.Location = new System.Drawing.Point(12, 127);
+            this.textBoxMessage.Location = new System.Drawing.Point(12, 50);
             this.textBoxMessage.Multiline = true;
             this.textBoxMessage.Name = "textBoxMessage";
-            this.textBoxMessage.Size = new System.Drawing.Size(542, 179);
+            this.textBoxMessage.ScrollBars = System.Windows.Forms.ScrollBars.Both;
+            this.textBoxMessage.Size = new System.Drawing.Size(542, 256);
             this.textBoxMessage.TabIndex = 2;
             // 
             // Form1

@@ -1,0 +1,15 @@
+D:\ITSTEP\NetworkPrograming\GIT\ITSTEP-NetworkPrograming\CW\cw20230426\ServerAsync\ServerAsync\bin\Debug\net6.0\ServerAsync.exe
+D:\ITSTEP\NetworkPrograming\GIT\ITSTEP-NetworkPrograming\CW\cw20230426\ServerAsync\ServerAsync\bin\Debug\net6.0\ServerAsync.deps.json
+D:\ITSTEP\NetworkPrograming\GIT\ITSTEP-NetworkPrograming\CW\cw20230426\ServerAsync\ServerAsync\bin\Debug\net6.0\ServerAsync.runtimeconfig.json
+D:\ITSTEP\NetworkPrograming\GIT\ITSTEP-NetworkPrograming\CW\cw20230426\ServerAsync\ServerAsync\bin\Debug\net6.0\ServerAsync.dll
+D:\ITSTEP\NetworkPrograming\GIT\ITSTEP-NetworkPrograming\CW\cw20230426\ServerAsync\ServerAsync\bin\Debug\net6.0\ServerAsync.pdb
+D:\ITSTEP\NetworkPrograming\GIT\ITSTEP-NetworkPrograming\CW\cw20230426\ServerAsync\ServerAsync\obj\Debug\net6.0\ServerAsync.csproj.AssemblyReference.cache
+D:\ITSTEP\NetworkPrograming\GIT\ITSTEP-NetworkPrograming\CW\cw20230426\ServerAsync\ServerAsync\obj\Debug\net6.0\ServerAsync.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITSTEP\NetworkPrograming\GIT\ITSTEP-NetworkPrograming\CW\cw20230426\ServerAsync\ServerAsync\obj\Debug\net6.0\ServerAsync.AssemblyInfoInputs.cache
+D:\ITSTEP\NetworkPrograming\GIT\ITSTEP-NetworkPrograming\CW\cw20230426\ServerAsync\ServerAsync\obj\Debug\net6.0\ServerAsync.AssemblyInfo.cs
+D:\ITSTEP\NetworkPrograming\GIT\ITSTEP-NetworkPrograming\CW\cw20230426\ServerAsync\ServerAsync\obj\Debug\net6.0\ServerAsync.csproj.CoreCompileInputs.cache
+D:\ITSTEP\NetworkPrograming\GIT\ITSTEP-NetworkPrograming\CW\cw20230426\ServerAsync\ServerAsync\obj\Debug\net6.0\ServerAsync.dll
+D:\ITSTEP\NetworkPrograming\GIT\ITSTEP-NetworkPrograming\CW\cw20230426\ServerAsync\ServerAsync\obj\Debug\net6.0\refint\ServerAsync.dll
+D:\ITSTEP\NetworkPrograming\GIT\ITSTEP-NetworkPrograming\CW\cw20230426\ServerAsync\ServerAsync\obj\Debug\net6.0\ServerAsync.pdb
+D:\ITSTEP\NetworkPrograming\GIT\ITSTEP-NetworkPrograming\CW\cw20230426\ServerAsync\ServerAsync\obj\Debug\net6.0\ServerAsync.genruntimeconfig.cache
+D:\ITSTEP\NetworkPrograming\GIT\ITSTEP-NetworkPrograming\CW\cw20230426\ServerAsync\ServerAsync\obj\Debug\net6.0\ref\ServerAsync.dll
