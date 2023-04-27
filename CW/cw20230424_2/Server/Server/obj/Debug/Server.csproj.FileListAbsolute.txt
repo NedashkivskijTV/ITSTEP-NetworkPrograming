@@ -1,8 +1,0 @@
-D:\ITSTEP\NetworkPrograming\GIT\ITSTEP-NetworkPrograming\CW\cw20230424_2\Server\Server\bin\Debug\Server.exe.config
-D:\ITSTEP\NetworkPrograming\GIT\ITSTEP-NetworkPrograming\CW\cw20230424_2\Server\Server\bin\Debug\Server.exe
-D:\ITSTEP\NetworkPrograming\GIT\ITSTEP-NetworkPrograming\CW\cw20230424_2\Server\Server\bin\Debug\Server.pdb
-D:\ITSTEP\NetworkPrograming\GIT\ITSTEP-NetworkPrograming\CW\cw20230424_2\Server\Server\obj\Debug\Server.csproj.AssemblyReference.cache
-D:\ITSTEP\NetworkPrograming\GIT\ITSTEP-NetworkPrograming\CW\cw20230424_2\Server\Server\obj\Debug\Server.csproj.SuggestedBindingRedirects.cache
-D:\ITSTEP\NetworkPrograming\GIT\ITSTEP-NetworkPrograming\CW\cw20230424_2\Server\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
-D:\ITSTEP\NetworkPrograming\GIT\ITSTEP-NetworkPrograming\CW\cw20230424_2\Server\Server\obj\Debug\Server.exe
-D:\ITSTEP\NetworkPrograming\GIT\ITSTEP-NetworkPrograming\CW\cw20230424_2\Server\Server\obj\Debug\Server.pdb
