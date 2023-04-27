@@ -1,0 +1,8 @@
+D:\ITSTEP\New\work\CW\cw20230424\Server\Server\bin\Debug\Server.exe.config
+D:\ITSTEP\New\work\CW\cw20230424\Server\Server\bin\Debug\Server.exe
+D:\ITSTEP\New\work\CW\cw20230424\Server\Server\bin\Debug\Server.pdb
+D:\ITSTEP\New\work\CW\cw20230424\Server\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+D:\ITSTEP\New\work\CW\cw20230424\Server\Server\obj\Debug\Server.csproj.SuggestedBindingRedirects.cache
+D:\ITSTEP\New\work\CW\cw20230424\Server\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+D:\ITSTEP\New\work\CW\cw20230424\Server\Server\obj\Debug\Server.exe
+D:\ITSTEP\New\work\CW\cw20230424\Server\Server\obj\Debug\Server.pdb
