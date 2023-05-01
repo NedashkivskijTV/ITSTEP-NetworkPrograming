@@ -1,0 +1,12 @@
+D:\ITSTEP\NetworkPrograming\_CW\cw20230426_2\lab2\ProductLibrary\bin\Debug\net6.0\ProductLibrary.deps.json
+D:\ITSTEP\NetworkPrograming\_CW\cw20230426_2\lab2\ProductLibrary\bin\Debug\net6.0\ProductLibrary.dll
+D:\ITSTEP\NetworkPrograming\_CW\cw20230426_2\lab2\ProductLibrary\bin\Debug\net6.0\ProductLibrary.pdb
+D:\ITSTEP\NetworkPrograming\_CW\cw20230426_2\lab2\ProductLibrary\obj\Debug\net6.0\ProductLibrary.csproj.AssemblyReference.cache
+D:\ITSTEP\NetworkPrograming\_CW\cw20230426_2\lab2\ProductLibrary\obj\Debug\net6.0\ProductLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITSTEP\NetworkPrograming\_CW\cw20230426_2\lab2\ProductLibrary\obj\Debug\net6.0\ProductLibrary.AssemblyInfoInputs.cache
+D:\ITSTEP\NetworkPrograming\_CW\cw20230426_2\lab2\ProductLibrary\obj\Debug\net6.0\ProductLibrary.AssemblyInfo.cs
+D:\ITSTEP\NetworkPrograming\_CW\cw20230426_2\lab2\ProductLibrary\obj\Debug\net6.0\ProductLibrary.csproj.CoreCompileInputs.cache
+D:\ITSTEP\NetworkPrograming\_CW\cw20230426_2\lab2\ProductLibrary\obj\Debug\net6.0\ProductLibrary.dll
+D:\ITSTEP\NetworkPrograming\_CW\cw20230426_2\lab2\ProductLibrary\obj\Debug\net6.0\refint\ProductLibrary.dll
+D:\ITSTEP\NetworkPrograming\_CW\cw20230426_2\lab2\ProductLibrary\obj\Debug\net6.0\ProductLibrary.pdb
+D:\ITSTEP\NetworkPrograming\_CW\cw20230426_2\lab2\ProductLibrary\obj\Debug\net6.0\ref\ProductLibrary.dll
