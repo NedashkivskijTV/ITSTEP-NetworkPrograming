@@ -1,0 +1,12 @@
+D:\ITSTEP\NetworkPrograming\_HW\lab0520230505RecipeBook\RecipeLibrary\bin\Debug\net6.0\RecipeLibrary.deps.json
+D:\ITSTEP\NetworkPrograming\_HW\lab0520230505RecipeBook\RecipeLibrary\bin\Debug\net6.0\RecipeLibrary.dll
+D:\ITSTEP\NetworkPrograming\_HW\lab0520230505RecipeBook\RecipeLibrary\bin\Debug\net6.0\RecipeLibrary.pdb
+D:\ITSTEP\NetworkPrograming\_HW\lab0520230505RecipeBook\RecipeLibrary\obj\Debug\net6.0\RecipeLibrary.csproj.AssemblyReference.cache
+D:\ITSTEP\NetworkPrograming\_HW\lab0520230505RecipeBook\RecipeLibrary\obj\Debug\net6.0\RecipeLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITSTEP\NetworkPrograming\_HW\lab0520230505RecipeBook\RecipeLibrary\obj\Debug\net6.0\RecipeLibrary.AssemblyInfoInputs.cache
+D:\ITSTEP\NetworkPrograming\_HW\lab0520230505RecipeBook\RecipeLibrary\obj\Debug\net6.0\RecipeLibrary.AssemblyInfo.cs
+D:\ITSTEP\NetworkPrograming\_HW\lab0520230505RecipeBook\RecipeLibrary\obj\Debug\net6.0\RecipeLibrary.csproj.CoreCompileInputs.cache
+D:\ITSTEP\NetworkPrograming\_HW\lab0520230505RecipeBook\RecipeLibrary\obj\Debug\net6.0\RecipeLibrary.dll
+D:\ITSTEP\NetworkPrograming\_HW\lab0520230505RecipeBook\RecipeLibrary\obj\Debug\net6.0\refint\RecipeLibrary.dll
+D:\ITSTEP\NetworkPrograming\_HW\lab0520230505RecipeBook\RecipeLibrary\obj\Debug\net6.0\RecipeLibrary.pdb
+D:\ITSTEP\NetworkPrograming\_HW\lab0520230505RecipeBook\RecipeLibrary\obj\Debug\net6.0\ref\RecipeLibrary.dll

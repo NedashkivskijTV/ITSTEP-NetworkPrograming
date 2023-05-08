@@ -1,0 +1,17 @@
+D:\ITSTEP\NetworkPrograming\_CW\cw20230506MulticastUnicastBroadcast_2\App01\ClientMulticast\bin\Debug\net6.0-windows\ClientMulticast.exe
+D:\ITSTEP\NetworkPrograming\_CW\cw20230506MulticastUnicastBroadcast_2\App01\ClientMulticast\bin\Debug\net6.0-windows\ClientMulticast.deps.json
+D:\ITSTEP\NetworkPrograming\_CW\cw20230506MulticastUnicastBroadcast_2\App01\ClientMulticast\bin\Debug\net6.0-windows\ClientMulticast.runtimeconfig.json
+D:\ITSTEP\NetworkPrograming\_CW\cw20230506MulticastUnicastBroadcast_2\App01\ClientMulticast\bin\Debug\net6.0-windows\ClientMulticast.dll
+D:\ITSTEP\NetworkPrograming\_CW\cw20230506MulticastUnicastBroadcast_2\App01\ClientMulticast\bin\Debug\net6.0-windows\ClientMulticast.pdb
+D:\ITSTEP\NetworkPrograming\_CW\cw20230506MulticastUnicastBroadcast_2\App01\ClientMulticast\obj\Debug\net6.0-windows\ClientMulticast.csproj.AssemblyReference.cache
+D:\ITSTEP\NetworkPrograming\_CW\cw20230506MulticastUnicastBroadcast_2\App01\ClientMulticast\obj\Debug\net6.0-windows\ClientMulticast.Form1.resources
+D:\ITSTEP\NetworkPrograming\_CW\cw20230506MulticastUnicastBroadcast_2\App01\ClientMulticast\obj\Debug\net6.0-windows\ClientMulticast.csproj.GenerateResource.cache
+D:\ITSTEP\NetworkPrograming\_CW\cw20230506MulticastUnicastBroadcast_2\App01\ClientMulticast\obj\Debug\net6.0-windows\ClientMulticast.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITSTEP\NetworkPrograming\_CW\cw20230506MulticastUnicastBroadcast_2\App01\ClientMulticast\obj\Debug\net6.0-windows\ClientMulticast.AssemblyInfoInputs.cache
+D:\ITSTEP\NetworkPrograming\_CW\cw20230506MulticastUnicastBroadcast_2\App01\ClientMulticast\obj\Debug\net6.0-windows\ClientMulticast.AssemblyInfo.cs
+D:\ITSTEP\NetworkPrograming\_CW\cw20230506MulticastUnicastBroadcast_2\App01\ClientMulticast\obj\Debug\net6.0-windows\ClientMulticast.csproj.CoreCompileInputs.cache
+D:\ITSTEP\NetworkPrograming\_CW\cw20230506MulticastUnicastBroadcast_2\App01\ClientMulticast\obj\Debug\net6.0-windows\ClientMulticast.dll
+D:\ITSTEP\NetworkPrograming\_CW\cw20230506MulticastUnicastBroadcast_2\App01\ClientMulticast\obj\Debug\net6.0-windows\refint\ClientMulticast.dll
+D:\ITSTEP\NetworkPrograming\_CW\cw20230506MulticastUnicastBroadcast_2\App01\ClientMulticast\obj\Debug\net6.0-windows\ClientMulticast.pdb
+D:\ITSTEP\NetworkPrograming\_CW\cw20230506MulticastUnicastBroadcast_2\App01\ClientMulticast\obj\Debug\net6.0-windows\ClientMulticast.genruntimeconfig.cache
+D:\ITSTEP\NetworkPrograming\_CW\cw20230506MulticastUnicastBroadcast_2\App01\ClientMulticast\obj\Debug\net6.0-windows\ref\ClientMulticast.dll

@@ -1,0 +1,17 @@
+D:\ITSTEP\NetworkPrograming\_HW\lab0420230501\ServerTcp\ServerTcp\bin\Debug\net6.0-windows\ServerTcp.exe
+D:\ITSTEP\NetworkPrograming\_HW\lab0420230501\ServerTcp\ServerTcp\bin\Debug\net6.0-windows\ServerTcp.deps.json
+D:\ITSTEP\NetworkPrograming\_HW\lab0420230501\ServerTcp\ServerTcp\bin\Debug\net6.0-windows\ServerTcp.runtimeconfig.json
+D:\ITSTEP\NetworkPrograming\_HW\lab0420230501\ServerTcp\ServerTcp\bin\Debug\net6.0-windows\ServerTcp.dll
+D:\ITSTEP\NetworkPrograming\_HW\lab0420230501\ServerTcp\ServerTcp\bin\Debug\net6.0-windows\ServerTcp.pdb
+D:\ITSTEP\NetworkPrograming\_HW\lab0420230501\ServerTcp\ServerTcp\obj\Debug\net6.0-windows\ServerTcp.csproj.AssemblyReference.cache
+D:\ITSTEP\NetworkPrograming\_HW\lab0420230501\ServerTcp\ServerTcp\obj\Debug\net6.0-windows\ServerTcp.Form1.resources
+D:\ITSTEP\NetworkPrograming\_HW\lab0420230501\ServerTcp\ServerTcp\obj\Debug\net6.0-windows\ServerTcp.csproj.GenerateResource.cache
+D:\ITSTEP\NetworkPrograming\_HW\lab0420230501\ServerTcp\ServerTcp\obj\Debug\net6.0-windows\ServerTcp.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITSTEP\NetworkPrograming\_HW\lab0420230501\ServerTcp\ServerTcp\obj\Debug\net6.0-windows\ServerTcp.AssemblyInfoInputs.cache
+D:\ITSTEP\NetworkPrograming\_HW\lab0420230501\ServerTcp\ServerTcp\obj\Debug\net6.0-windows\ServerTcp.AssemblyInfo.cs
+D:\ITSTEP\NetworkPrograming\_HW\lab0420230501\ServerTcp\ServerTcp\obj\Debug\net6.0-windows\ServerTcp.csproj.CoreCompileInputs.cache
+D:\ITSTEP\NetworkPrograming\_HW\lab0420230501\ServerTcp\ServerTcp\obj\Debug\net6.0-windows\ServerTcp.dll
+D:\ITSTEP\NetworkPrograming\_HW\lab0420230501\ServerTcp\ServerTcp\obj\Debug\net6.0-windows\refint\ServerTcp.dll
+D:\ITSTEP\NetworkPrograming\_HW\lab0420230501\ServerTcp\ServerTcp\obj\Debug\net6.0-windows\ServerTcp.pdb
+D:\ITSTEP\NetworkPrograming\_HW\lab0420230501\ServerTcp\ServerTcp\obj\Debug\net6.0-windows\ServerTcp.genruntimeconfig.cache
+D:\ITSTEP\NetworkPrograming\_HW\lab0420230501\ServerTcp\ServerTcp\obj\Debug\net6.0-windows\ref\ServerTcp.dll

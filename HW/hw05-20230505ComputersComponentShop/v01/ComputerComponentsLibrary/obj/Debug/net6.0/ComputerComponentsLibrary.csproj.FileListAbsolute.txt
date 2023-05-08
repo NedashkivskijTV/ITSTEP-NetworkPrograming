@@ -1,0 +1,12 @@
+D:\ITSTEP\NetworkPrograming\_HW\hw05-20230505\v01\ComputerComponentsLibrary\bin\Debug\net6.0\ComputerComponentsLibrary.deps.json
+D:\ITSTEP\NetworkPrograming\_HW\hw05-20230505\v01\ComputerComponentsLibrary\bin\Debug\net6.0\ComputerComponentsLibrary.dll
+D:\ITSTEP\NetworkPrograming\_HW\hw05-20230505\v01\ComputerComponentsLibrary\bin\Debug\net6.0\ComputerComponentsLibrary.pdb
+D:\ITSTEP\NetworkPrograming\_HW\hw05-20230505\v01\ComputerComponentsLibrary\obj\Debug\net6.0\ComputerComponentsLibrary.csproj.AssemblyReference.cache
+D:\ITSTEP\NetworkPrograming\_HW\hw05-20230505\v01\ComputerComponentsLibrary\obj\Debug\net6.0\ComputerComponentsLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITSTEP\NetworkPrograming\_HW\hw05-20230505\v01\ComputerComponentsLibrary\obj\Debug\net6.0\ComputerComponentsLibrary.AssemblyInfoInputs.cache
+D:\ITSTEP\NetworkPrograming\_HW\hw05-20230505\v01\ComputerComponentsLibrary\obj\Debug\net6.0\ComputerComponentsLibrary.AssemblyInfo.cs
+D:\ITSTEP\NetworkPrograming\_HW\hw05-20230505\v01\ComputerComponentsLibrary\obj\Debug\net6.0\ComputerComponentsLibrary.csproj.CoreCompileInputs.cache
+D:\ITSTEP\NetworkPrograming\_HW\hw05-20230505\v01\ComputerComponentsLibrary\obj\Debug\net6.0\ComputerComponentsLibrary.dll
+D:\ITSTEP\NetworkPrograming\_HW\hw05-20230505\v01\ComputerComponentsLibrary\obj\Debug\net6.0\refint\ComputerComponentsLibrary.dll
+D:\ITSTEP\NetworkPrograming\_HW\hw05-20230505\v01\ComputerComponentsLibrary\obj\Debug\net6.0\ComputerComponentsLibrary.pdb
+D:\ITSTEP\NetworkPrograming\_HW\hw05-20230505\v01\ComputerComponentsLibrary\obj\Debug\net6.0\ref\ComputerComponentsLibrary.dll

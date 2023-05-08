@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServerMulticast", "ServerMulticast\ServerMulticast.csproj", "{F4B4EAAB-B71D-400A-AC32-5C9030BDE971}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClientMulticast", "..\ClientMulticast\ClientMulticast.csproj", "{7737B621-FA3B-445A-A16A-39394F707732}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F4B4EAAB-B71D-400A-AC32-5C9030BDE971}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4B4EAAB-B71D-400A-AC32-5C9030BDE971}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4B4EAAB-B71D-400A-AC32-5C9030BDE971}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4B4EAAB-B71D-400A-AC32-5C9030BDE971}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7737B621-FA3B-445A-A16A-39394F707732}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7737B621-FA3B-445A-A16A-39394F707732}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7737B621-FA3B-445A-A16A-39394F707732}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7737B621-FA3B-445A-A16A-39394F707732}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {12A96795-7766-4F4B-BED1-EAB9562D08B9}
+	EndGlobalSection
+EndGlobal

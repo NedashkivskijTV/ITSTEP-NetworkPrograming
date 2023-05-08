@@ -1,0 +1,17 @@
+D:\ITSTEP\NetworkPrograming\_CW\cw20230505ClassUDP\UDP_Protocol\UDP_Protocol\bin\Debug\net6.0-windows\UDP_Protocol.exe
+D:\ITSTEP\NetworkPrograming\_CW\cw20230505ClassUDP\UDP_Protocol\UDP_Protocol\bin\Debug\net6.0-windows\UDP_Protocol.deps.json
+D:\ITSTEP\NetworkPrograming\_CW\cw20230505ClassUDP\UDP_Protocol\UDP_Protocol\bin\Debug\net6.0-windows\UDP_Protocol.runtimeconfig.json
+D:\ITSTEP\NetworkPrograming\_CW\cw20230505ClassUDP\UDP_Protocol\UDP_Protocol\bin\Debug\net6.0-windows\UDP_Protocol.dll
+D:\ITSTEP\NetworkPrograming\_CW\cw20230505ClassUDP\UDP_Protocol\UDP_Protocol\bin\Debug\net6.0-windows\UDP_Protocol.pdb
+D:\ITSTEP\NetworkPrograming\_CW\cw20230505ClassUDP\UDP_Protocol\UDP_Protocol\obj\Debug\net6.0-windows\UDP_Protocol.csproj.AssemblyReference.cache
+D:\ITSTEP\NetworkPrograming\_CW\cw20230505ClassUDP\UDP_Protocol\UDP_Protocol\obj\Debug\net6.0-windows\UDP_Protocol.Form1.resources
+D:\ITSTEP\NetworkPrograming\_CW\cw20230505ClassUDP\UDP_Protocol\UDP_Protocol\obj\Debug\net6.0-windows\UDP_Protocol.csproj.GenerateResource.cache
+D:\ITSTEP\NetworkPrograming\_CW\cw20230505ClassUDP\UDP_Protocol\UDP_Protocol\obj\Debug\net6.0-windows\UDP_Protocol.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITSTEP\NetworkPrograming\_CW\cw20230505ClassUDP\UDP_Protocol\UDP_Protocol\obj\Debug\net6.0-windows\UDP_Protocol.AssemblyInfoInputs.cache
+D:\ITSTEP\NetworkPrograming\_CW\cw20230505ClassUDP\UDP_Protocol\UDP_Protocol\obj\Debug\net6.0-windows\UDP_Protocol.AssemblyInfo.cs
+D:\ITSTEP\NetworkPrograming\_CW\cw20230505ClassUDP\UDP_Protocol\UDP_Protocol\obj\Debug\net6.0-windows\UDP_Protocol.csproj.CoreCompileInputs.cache
+D:\ITSTEP\NetworkPrograming\_CW\cw20230505ClassUDP\UDP_Protocol\UDP_Protocol\obj\Debug\net6.0-windows\UDP_Protocol.dll
+D:\ITSTEP\NetworkPrograming\_CW\cw20230505ClassUDP\UDP_Protocol\UDP_Protocol\obj\Debug\net6.0-windows\refint\UDP_Protocol.dll
+D:\ITSTEP\NetworkPrograming\_CW\cw20230505ClassUDP\UDP_Protocol\UDP_Protocol\obj\Debug\net6.0-windows\UDP_Protocol.pdb
+D:\ITSTEP\NetworkPrograming\_CW\cw20230505ClassUDP\UDP_Protocol\UDP_Protocol\obj\Debug\net6.0-windows\UDP_Protocol.genruntimeconfig.cache
+D:\ITSTEP\NetworkPrograming\_CW\cw20230505ClassUDP\UDP_Protocol\UDP_Protocol\obj\Debug\net6.0-windows\ref\UDP_Protocol.dll

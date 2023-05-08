@@ -1,0 +1,17 @@
+D:\ITSTEP\NetworkPrograming\_HW\lab0420230501\ClientTcp\bin\Debug\net6.0-windows\ClientTcp.exe
+D:\ITSTEP\NetworkPrograming\_HW\lab0420230501\ClientTcp\bin\Debug\net6.0-windows\ClientTcp.deps.json
+D:\ITSTEP\NetworkPrograming\_HW\lab0420230501\ClientTcp\bin\Debug\net6.0-windows\ClientTcp.runtimeconfig.json
+D:\ITSTEP\NetworkPrograming\_HW\lab0420230501\ClientTcp\bin\Debug\net6.0-windows\ClientTcp.dll
+D:\ITSTEP\NetworkPrograming\_HW\lab0420230501\ClientTcp\bin\Debug\net6.0-windows\ClientTcp.pdb
+D:\ITSTEP\NetworkPrograming\_HW\lab0420230501\ClientTcp\obj\Debug\net6.0-windows\ClientTcp.csproj.AssemblyReference.cache
+D:\ITSTEP\NetworkPrograming\_HW\lab0420230501\ClientTcp\obj\Debug\net6.0-windows\ClientTcp.Form1.resources
+D:\ITSTEP\NetworkPrograming\_HW\lab0420230501\ClientTcp\obj\Debug\net6.0-windows\ClientTcp.csproj.GenerateResource.cache
+D:\ITSTEP\NetworkPrograming\_HW\lab0420230501\ClientTcp\obj\Debug\net6.0-windows\ClientTcp.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITSTEP\NetworkPrograming\_HW\lab0420230501\ClientTcp\obj\Debug\net6.0-windows\ClientTcp.AssemblyInfoInputs.cache
+D:\ITSTEP\NetworkPrograming\_HW\lab0420230501\ClientTcp\obj\Debug\net6.0-windows\ClientTcp.AssemblyInfo.cs
+D:\ITSTEP\NetworkPrograming\_HW\lab0420230501\ClientTcp\obj\Debug\net6.0-windows\ClientTcp.csproj.CoreCompileInputs.cache
+D:\ITSTEP\NetworkPrograming\_HW\lab0420230501\ClientTcp\obj\Debug\net6.0-windows\ClientTcp.dll
+D:\ITSTEP\NetworkPrograming\_HW\lab0420230501\ClientTcp\obj\Debug\net6.0-windows\refint\ClientTcp.dll
+D:\ITSTEP\NetworkPrograming\_HW\lab0420230501\ClientTcp\obj\Debug\net6.0-windows\ClientTcp.pdb
+D:\ITSTEP\NetworkPrograming\_HW\lab0420230501\ClientTcp\obj\Debug\net6.0-windows\ClientTcp.genruntimeconfig.cache
+D:\ITSTEP\NetworkPrograming\_HW\lab0420230501\ClientTcp\obj\Debug\net6.0-windows\ref\ClientTcp.dll

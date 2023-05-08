@@ -1,0 +1,17 @@
+D:\ITSTEP\NetworkPrograming\_HW\hw0420230501\ImageCapture\ClientScreenCapture\bin\Debug\net6.0-windows\ClientScreenCapture.exe
+D:\ITSTEP\NetworkPrograming\_HW\hw0420230501\ImageCapture\ClientScreenCapture\bin\Debug\net6.0-windows\ClientScreenCapture.deps.json
+D:\ITSTEP\NetworkPrograming\_HW\hw0420230501\ImageCapture\ClientScreenCapture\bin\Debug\net6.0-windows\ClientScreenCapture.runtimeconfig.json
+D:\ITSTEP\NetworkPrograming\_HW\hw0420230501\ImageCapture\ClientScreenCapture\bin\Debug\net6.0-windows\ClientScreenCapture.dll
+D:\ITSTEP\NetworkPrograming\_HW\hw0420230501\ImageCapture\ClientScreenCapture\bin\Debug\net6.0-windows\ClientScreenCapture.pdb
+D:\ITSTEP\NetworkPrograming\_HW\hw0420230501\ImageCapture\ClientScreenCapture\obj\Debug\net6.0-windows\ClientScreenCapture.csproj.AssemblyReference.cache
+D:\ITSTEP\NetworkPrograming\_HW\hw0420230501\ImageCapture\ClientScreenCapture\obj\Debug\net6.0-windows\ClientScreenCapture.Form1.resources
+D:\ITSTEP\NetworkPrograming\_HW\hw0420230501\ImageCapture\ClientScreenCapture\obj\Debug\net6.0-windows\ClientScreenCapture.csproj.GenerateResource.cache
+D:\ITSTEP\NetworkPrograming\_HW\hw0420230501\ImageCapture\ClientScreenCapture\obj\Debug\net6.0-windows\ClientScreenCapture.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITSTEP\NetworkPrograming\_HW\hw0420230501\ImageCapture\ClientScreenCapture\obj\Debug\net6.0-windows\ClientScreenCapture.AssemblyInfoInputs.cache
+D:\ITSTEP\NetworkPrograming\_HW\hw0420230501\ImageCapture\ClientScreenCapture\obj\Debug\net6.0-windows\ClientScreenCapture.AssemblyInfo.cs
+D:\ITSTEP\NetworkPrograming\_HW\hw0420230501\ImageCapture\ClientScreenCapture\obj\Debug\net6.0-windows\ClientScreenCapture.csproj.CoreCompileInputs.cache
+D:\ITSTEP\NetworkPrograming\_HW\hw0420230501\ImageCapture\ClientScreenCapture\obj\Debug\net6.0-windows\ClientScreenCapture.dll
+D:\ITSTEP\NetworkPrograming\_HW\hw0420230501\ImageCapture\ClientScreenCapture\obj\Debug\net6.0-windows\refint\ClientScreenCapture.dll
+D:\ITSTEP\NetworkPrograming\_HW\hw0420230501\ImageCapture\ClientScreenCapture\obj\Debug\net6.0-windows\ClientScreenCapture.pdb
+D:\ITSTEP\NetworkPrograming\_HW\hw0420230501\ImageCapture\ClientScreenCapture\obj\Debug\net6.0-windows\ClientScreenCapture.genruntimeconfig.cache
+D:\ITSTEP\NetworkPrograming\_HW\hw0420230501\ImageCapture\ClientScreenCapture\obj\Debug\net6.0-windows\ref\ClientScreenCapture.dll

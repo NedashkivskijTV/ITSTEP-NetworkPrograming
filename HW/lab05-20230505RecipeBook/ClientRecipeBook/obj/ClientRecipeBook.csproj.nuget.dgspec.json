@@ -1,0 +1,202 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\ITSTEP\\NetworkPrograming\\_HW\\lab0520230505RecipeBook\\ClientRecipeBook\\ClientRecipeBook.csproj": {}
+  },
+  "projects": {
+    "D:\\ITSTEP\\NetworkPrograming\\_HW\\lab0520230505RecipeBook\\ClientRecipeBook\\ClientRecipeBook.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\ITSTEP\\NetworkPrograming\\_HW\\lab0520230505RecipeBook\\ClientRecipeBook\\ClientRecipeBook.csproj",
+        "projectName": "ClientRecipeBook",
+        "projectPath": "D:\\ITSTEP\\NetworkPrograming\\_HW\\lab0520230505RecipeBook\\ClientRecipeBook\\ClientRecipeBook.csproj",
+        "packagesPath": "C:\\Users\\TarasN\\.nuget\\packages\\",
+        "outputPath": "D:\\ITSTEP\\NetworkPrograming\\_HW\\lab0520230505RecipeBook\\ClientRecipeBook\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\TarasN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {
+              "D:\\ITSTEP\\NetworkPrograming\\_HW\\lab0520230505RecipeBook\\RecipeLibrary\\RecipeLibrary.csproj": {
+                "projectPath": "D:\\ITSTEP\\NetworkPrograming\\_HW\\lab0520230505RecipeBook\\RecipeLibrary\\RecipeLibrary.csproj"
+              },
+              "D:\\ITSTEP\\NetworkPrograming\\_HW\\lab0520230505RecipeBook\\ServerRecipeBook\\ServerRecipeBook\\ServerRecipeBook.csproj": {
+                "projectPath": "D:\\ITSTEP\\NetworkPrograming\\_HW\\lab0520230505RecipeBook\\ServerRecipeBook\\ServerRecipeBook\\ServerRecipeBook.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.408\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\ITSTEP\\NetworkPrograming\\_HW\\lab0520230505RecipeBook\\RecipeLibrary\\RecipeLibrary.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\ITSTEP\\NetworkPrograming\\_HW\\lab0520230505RecipeBook\\RecipeLibrary\\RecipeLibrary.csproj",
+        "projectName": "RecipeLibrary",
+        "projectPath": "D:\\ITSTEP\\NetworkPrograming\\_HW\\lab0520230505RecipeBook\\RecipeLibrary\\RecipeLibrary.csproj",
+        "packagesPath": "C:\\Users\\TarasN\\.nuget\\packages\\",
+        "outputPath": "D:\\ITSTEP\\NetworkPrograming\\_HW\\lab0520230505RecipeBook\\RecipeLibrary\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\TarasN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.408\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\ITSTEP\\NetworkPrograming\\_HW\\lab0520230505RecipeBook\\ServerRecipeBook\\ServerRecipeBook\\ServerRecipeBook.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\ITSTEP\\NetworkPrograming\\_HW\\lab0520230505RecipeBook\\ServerRecipeBook\\ServerRecipeBook\\ServerRecipeBook.csproj",
+        "projectName": "ServerRecipeBook",
+        "projectPath": "D:\\ITSTEP\\NetworkPrograming\\_HW\\lab0520230505RecipeBook\\ServerRecipeBook\\ServerRecipeBook\\ServerRecipeBook.csproj",
+        "packagesPath": "C:\\Users\\TarasN\\.nuget\\packages\\",
+        "outputPath": "D:\\ITSTEP\\NetworkPrograming\\_HW\\lab0520230505RecipeBook\\ServerRecipeBook\\ServerRecipeBook\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\TarasN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {
+              "D:\\ITSTEP\\NetworkPrograming\\_HW\\lab0520230505RecipeBook\\RecipeLibrary\\RecipeLibrary.csproj": {
+                "projectPath": "D:\\ITSTEP\\NetworkPrograming\\_HW\\lab0520230505RecipeBook\\RecipeLibrary\\RecipeLibrary.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.408\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,12 @@
+D:\ITSTEP\NetworkPrograming\_HW\hw05-20230505\v01\ShopLibrary\obj\Debug\net6.0\ShopLibrary.csproj.AssemblyReference.cache
+D:\ITSTEP\NetworkPrograming\_HW\hw05-20230505\v01\ShopLibrary\obj\Debug\net6.0\ShopLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITSTEP\NetworkPrograming\_HW\hw05-20230505\v01\ShopLibrary\obj\Debug\net6.0\ShopLibrary.AssemblyInfoInputs.cache
+D:\ITSTEP\NetworkPrograming\_HW\hw05-20230505\v01\ShopLibrary\obj\Debug\net6.0\ShopLibrary.AssemblyInfo.cs
+D:\ITSTEP\NetworkPrograming\_HW\hw05-20230505\v01\ShopLibrary\obj\Debug\net6.0\ShopLibrary.csproj.CoreCompileInputs.cache
+D:\ITSTEP\NetworkPrograming\_HW\hw05-20230505\v01\ShopLibrary\bin\Debug\net6.0\ShopLibrary.deps.json
+D:\ITSTEP\NetworkPrograming\_HW\hw05-20230505\v01\ShopLibrary\bin\Debug\net6.0\ShopLibrary.dll
+D:\ITSTEP\NetworkPrograming\_HW\hw05-20230505\v01\ShopLibrary\bin\Debug\net6.0\ShopLibrary.pdb
+D:\ITSTEP\NetworkPrograming\_HW\hw05-20230505\v01\ShopLibrary\obj\Debug\net6.0\ShopLibrary.dll
+D:\ITSTEP\NetworkPrograming\_HW\hw05-20230505\v01\ShopLibrary\obj\Debug\net6.0\refint\ShopLibrary.dll
+D:\ITSTEP\NetworkPrograming\_HW\hw05-20230505\v01\ShopLibrary\obj\Debug\net6.0\ShopLibrary.pdb
+D:\ITSTEP\NetworkPrograming\_HW\hw05-20230505\v01\ShopLibrary\obj\Debug\net6.0\ref\ShopLibrary.dll

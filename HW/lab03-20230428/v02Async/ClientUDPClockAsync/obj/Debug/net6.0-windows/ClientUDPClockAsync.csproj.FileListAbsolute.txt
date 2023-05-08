@@ -1,0 +1,17 @@
+D:\ITSTEP\NetworkPrograming\_HW\lab0320230428\v02Async\ClientUDPClockAsync\bin\Debug\net6.0-windows\ClientUDPClockAsync.exe
+D:\ITSTEP\NetworkPrograming\_HW\lab0320230428\v02Async\ClientUDPClockAsync\bin\Debug\net6.0-windows\ClientUDPClockAsync.deps.json
+D:\ITSTEP\NetworkPrograming\_HW\lab0320230428\v02Async\ClientUDPClockAsync\bin\Debug\net6.0-windows\ClientUDPClockAsync.runtimeconfig.json
+D:\ITSTEP\NetworkPrograming\_HW\lab0320230428\v02Async\ClientUDPClockAsync\bin\Debug\net6.0-windows\ClientUDPClockAsync.dll
+D:\ITSTEP\NetworkPrograming\_HW\lab0320230428\v02Async\ClientUDPClockAsync\bin\Debug\net6.0-windows\ClientUDPClockAsync.pdb
+D:\ITSTEP\NetworkPrograming\_HW\lab0320230428\v02Async\ClientUDPClockAsync\obj\Debug\net6.0-windows\ClientUDPClockAsync.csproj.AssemblyReference.cache
+D:\ITSTEP\NetworkPrograming\_HW\lab0320230428\v02Async\ClientUDPClockAsync\obj\Debug\net6.0-windows\ClientUDPClockAsync.Form1.resources
+D:\ITSTEP\NetworkPrograming\_HW\lab0320230428\v02Async\ClientUDPClockAsync\obj\Debug\net6.0-windows\ClientUDPClockAsync.csproj.GenerateResource.cache
+D:\ITSTEP\NetworkPrograming\_HW\lab0320230428\v02Async\ClientUDPClockAsync\obj\Debug\net6.0-windows\ClientUDPClockAsync.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITSTEP\NetworkPrograming\_HW\lab0320230428\v02Async\ClientUDPClockAsync\obj\Debug\net6.0-windows\ClientUDPClockAsync.AssemblyInfoInputs.cache
+D:\ITSTEP\NetworkPrograming\_HW\lab0320230428\v02Async\ClientUDPClockAsync\obj\Debug\net6.0-windows\ClientUDPClockAsync.AssemblyInfo.cs
+D:\ITSTEP\NetworkPrograming\_HW\lab0320230428\v02Async\ClientUDPClockAsync\obj\Debug\net6.0-windows\ClientUDPClockAsync.csproj.CoreCompileInputs.cache
+D:\ITSTEP\NetworkPrograming\_HW\lab0320230428\v02Async\ClientUDPClockAsync\obj\Debug\net6.0-windows\ClientUDPClockAsync.dll
+D:\ITSTEP\NetworkPrograming\_HW\lab0320230428\v02Async\ClientUDPClockAsync\obj\Debug\net6.0-windows\refint\ClientUDPClockAsync.dll
+D:\ITSTEP\NetworkPrograming\_HW\lab0320230428\v02Async\ClientUDPClockAsync\obj\Debug\net6.0-windows\ClientUDPClockAsync.pdb
+D:\ITSTEP\NetworkPrograming\_HW\lab0320230428\v02Async\ClientUDPClockAsync\obj\Debug\net6.0-windows\ClientUDPClockAsync.genruntimeconfig.cache
+D:\ITSTEP\NetworkPrograming\_HW\lab0320230428\v02Async\ClientUDPClockAsync\obj\Debug\net6.0-windows\ref\ClientUDPClockAsync.dll

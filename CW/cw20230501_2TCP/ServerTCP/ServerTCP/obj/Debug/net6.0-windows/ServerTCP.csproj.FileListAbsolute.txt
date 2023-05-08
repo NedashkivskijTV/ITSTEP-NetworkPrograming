@@ -1,0 +1,17 @@
+D:\ITSTEP\NetworkPrograming\_CW\cw20230501_2TCP\ServerTCP\ServerTCP\obj\Debug\net6.0-windows\ServerTCP.csproj.AssemblyReference.cache
+D:\ITSTEP\NetworkPrograming\_CW\cw20230501_2TCP\ServerTCP\ServerTCP\obj\Debug\net6.0-windows\ServerTCP.Form1.resources
+D:\ITSTEP\NetworkPrograming\_CW\cw20230501_2TCP\ServerTCP\ServerTCP\obj\Debug\net6.0-windows\ServerTCP.csproj.GenerateResource.cache
+D:\ITSTEP\NetworkPrograming\_CW\cw20230501_2TCP\ServerTCP\ServerTCP\obj\Debug\net6.0-windows\ServerTCP.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITSTEP\NetworkPrograming\_CW\cw20230501_2TCP\ServerTCP\ServerTCP\obj\Debug\net6.0-windows\ServerTCP.AssemblyInfoInputs.cache
+D:\ITSTEP\NetworkPrograming\_CW\cw20230501_2TCP\ServerTCP\ServerTCP\obj\Debug\net6.0-windows\ServerTCP.AssemblyInfo.cs
+D:\ITSTEP\NetworkPrograming\_CW\cw20230501_2TCP\ServerTCP\ServerTCP\obj\Debug\net6.0-windows\ServerTCP.csproj.CoreCompileInputs.cache
+D:\ITSTEP\NetworkPrograming\_CW\cw20230501_2TCP\ServerTCP\ServerTCP\bin\Debug\net6.0-windows\ServerTCP.exe
+D:\ITSTEP\NetworkPrograming\_CW\cw20230501_2TCP\ServerTCP\ServerTCP\bin\Debug\net6.0-windows\ServerTCP.deps.json
+D:\ITSTEP\NetworkPrograming\_CW\cw20230501_2TCP\ServerTCP\ServerTCP\bin\Debug\net6.0-windows\ServerTCP.runtimeconfig.json
+D:\ITSTEP\NetworkPrograming\_CW\cw20230501_2TCP\ServerTCP\ServerTCP\bin\Debug\net6.0-windows\ServerTCP.dll
+D:\ITSTEP\NetworkPrograming\_CW\cw20230501_2TCP\ServerTCP\ServerTCP\bin\Debug\net6.0-windows\ServerTCP.pdb
+D:\ITSTEP\NetworkPrograming\_CW\cw20230501_2TCP\ServerTCP\ServerTCP\obj\Debug\net6.0-windows\ServerTCP.dll
+D:\ITSTEP\NetworkPrograming\_CW\cw20230501_2TCP\ServerTCP\ServerTCP\obj\Debug\net6.0-windows\refint\ServerTCP.dll
+D:\ITSTEP\NetworkPrograming\_CW\cw20230501_2TCP\ServerTCP\ServerTCP\obj\Debug\net6.0-windows\ServerTCP.pdb
+D:\ITSTEP\NetworkPrograming\_CW\cw20230501_2TCP\ServerTCP\ServerTCP\obj\Debug\net6.0-windows\ServerTCP.genruntimeconfig.cache
+D:\ITSTEP\NetworkPrograming\_CW\cw20230501_2TCP\ServerTCP\ServerTCP\obj\Debug\net6.0-windows\ref\ServerTCP.dll

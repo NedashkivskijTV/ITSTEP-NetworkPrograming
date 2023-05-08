@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ClienTCP/1.0.0": {
+        "dependencies": {
+          "ServerTCP": "1.0.0"
+        },
+        "runtime": {
+          "ClienTCP.dll": {}
+        }
+      },
+      "ServerTCP/1.0.0": {
+        "runtime": {
+          "ServerTCP.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ClienTCP/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ServerTCP/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

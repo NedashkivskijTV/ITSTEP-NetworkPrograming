@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Client_ProtocolUDP/1.0.0": {
+        "dependencies": {
+          "ComputerComponentsLibrary": "1.0.0"
+        },
+        "runtime": {
+          "Client_ProtocolUDP.dll": {}
+        }
+      },
+      "ComputerComponentsLibrary/1.0.0": {
+        "runtime": {
+          "ComputerComponentsLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Client_ProtocolUDP/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ComputerComponentsLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
